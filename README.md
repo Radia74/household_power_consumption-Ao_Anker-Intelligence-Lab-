@@ -1,6 +1,8 @@
-# household_power_consumption-Ao_Anker-Intelligence-Lab-
-Dockerisiertes Zeitreihen-Prognosemodell (XGBoost) zur Optimierung des Haushaltsstromverbrauchs und der Netzstabilität.
 # household_power_consumption (Ao_Anker-Intelligence-Lab)
+
+> **Dockerisiertes Zeitreihen-Prognosemodell (XGBoost) zur Optimierung des Haushaltsstromverbrauchs und der Netzstabilität.**
+
+---
 
 ## 📌 Projektziel & Hintergrund
 Entwicklung eines hochpräzisen Prognosemodells zur Analyse und Vorhersage des Stromverbrauchs in Privathaushalten. Das Projekt entstand als Reaktion auf einen technologischen Austausch mit der Firma LeineEnergie im Februar 2026, um Lösungen für die Netzstabilität zu explorieren.
@@ -19,10 +21,7 @@ Entwicklung eines hochpräzisen Prognosemodells zur Analyse und Vorhersage des S
 ---
 
 ## 🔗 Weiterführende Links
-* 📺 ## 🔗 Weiterführende Links
-* 📺 [Projekt-Video & Demonstration] [(https://www.linkedin.com/feed
-* 💼 [Vollständiges Portfolio & Details https://www.linkedin.com/feed
-  
+* 🎬 [Projekt-Video & Portfolio auf LinkedIn ansehen]([(https://www.linkedin.com/feed)
 
 ---
 *© 2026 Ao_Anker-Intelligence-Lab. Alle Rechte vorbehalten. Der Quellcode dieses Projekts ist proprietär.*
